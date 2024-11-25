@@ -1,3 +1,5 @@
+//João Pedro Santos Araujo 2C 22.11.2024//
+
 criaCartao(
     'Curiosidades',
     'Qual o descendente dos porquinhos-da-índia?',
