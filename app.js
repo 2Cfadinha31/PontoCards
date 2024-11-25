@@ -1,3 +1,5 @@
+//João Pedro Santos Araujo 2C 22.11.2024//
+
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
